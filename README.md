@@ -39,5 +39,5 @@
 
 1. To add a single-line comment in Python, add a "#" before a statement/line of code.
 2. To add a single-line comment in C++, add a "//" before a statement/line of code.
-3. To add a multi-line comment in Python, wrap the block of text with a set of triple quotes (""" <text> """).
-4. To add a multi-line comment in C++, wrap the block of text as such: /* <text> */
+3. To add a multi-line comment in Python, wrap the block of text with a set of triple quotes (""" [text here] """).
+4. To add a multi-line comment in C++, wrap the block of text as such: /* [text here] */
