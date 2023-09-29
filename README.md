@@ -30,3 +30,23 @@
 ## Terminal exercise
 <img width="563" alt="Screenshot 2023-09-22 at 4 16 35 PM" src="https://github.com/mxsingh/Manpreet_Training_Modules/assets/123334045/42236e2a-608e-4134-ac64-f7c3767eb32d">
 
+
+
+
+# Manpreet Module Three
+
+## Answers:
+
+1. To add a single-line comment in Python, add a "#" before a statement/line of code.
+2. To add a single-line comment in C++, add a "//" before a statement/line of code.
+3. To add a multi-line comment in Python, wrap the block of text with a set of triple quotes (""" [text here] """).
+4. To add a multi-line comment in C++, wrap the block of text as such: /* [text here] */
+
+## Program: Odd or Even
+
+### Description:
+The purpose of this program is to determine whether the sum of two numbers is even or odd.
+
+### Parameters:
+There are no parameters. User inputs values for both numbers.
+
