@@ -41,3 +41,12 @@
 2. To add a single-line comment in C++, add a "//" before a statement/line of code.
 3. To add a multi-line comment in Python, wrap the block of text with a set of triple quotes (""" [text here] """).
 4. To add a multi-line comment in C++, wrap the block of text as such: /* [text here] */
+
+## Program: Odd or Even
+
+### Description:
+The purpose of this program is to determine whether the sum of two numbers is even or odd.
+
+### Parameters:
+There are no parameters. User inputs values for both numbers.
+
